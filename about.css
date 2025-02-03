@@ -1,0 +1,14 @@
+.para1 {
+  margin: 32px;
+  text-indent: 10em;
+}
+.float {
+  float: left;
+  background-color: black;
+  color: aliceblue;
+  padding: 100px;
+  margin: 32px;
+}
+.floatsection {
+  background-color: aqua;
+}
