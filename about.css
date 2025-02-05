@@ -10,5 +10,7 @@
   margin: 32px;
 }
 .floatsection {
-  background-color: aqua;
+  background-color: gold;
+  border: black solid 5px;
+  margin: 20px;
 }
